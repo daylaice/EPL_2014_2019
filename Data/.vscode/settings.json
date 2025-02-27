@@ -1,0 +1,8 @@
+{
+    "codium.codeCompletion.enable": true,
+    "CodeGPT.apiKey": "CodeGPT Plus Beta",
+    "marscode.codeCompletionPro": {
+        "enableCodeCompletionPro": true
+    },
+    "files.autoSave": "afterDelay"
+}
